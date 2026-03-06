@@ -47,6 +47,9 @@ PyTorch	Deep learning framework
 Transformers (HuggingFace)	NLP models
 React.js	Frontend interface
 Tailwind CSS	UI styling
+
+
+
 Project Structure
 phishing-detection-nlp/
 │
@@ -70,6 +73,9 @@ phishing-detection-nlp/
 │   └── project_report.pdf
 │
 └── README.md
+
+
+
 Installation
 Clone the Repository
 git clone https://github.com/yourusername/phishing-detection-nlp.git
